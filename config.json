@@ -1,0 +1,9 @@
+{
+    "connectionString": "mongodb+srv://robertuser:12LEcs@77@cluster0-jkvcx.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "secret": "2209100125",
+    "productSlugOptions" : {
+        "separator": "-",
+        "lang": "en"
+        
+    }
+}

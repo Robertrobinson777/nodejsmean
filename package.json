@@ -1,0 +1,35 @@
+{
+    "name": "mern",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Vijay.Knowillence",
+    "contributors": [],
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.18.3",
+        "cors": "^2.8.4",
+        "express": "^4.16.3",
+        "express-graphql": "^0.9.0",
+        "express-jwt": "^5.3.1",
+        "express-validation": "^1.0.2",
+        "express-validator": "^2.20.3",
+        "graphql": "^14.4.2",
+        "jsonwebtoken": "^8.2.2",
+        "mongodb": "^3.0.10",
+        "mongoose": "^5.6.7",
+        "mongoose-float": "^1.0.4",
+        "mongoose-slug-generator": "^1.0.4",
+        "rootpath": "^0.1.2"
+    },
+    "devDependencies": {
+        "@google-cloud/nodejs-repo-tools": "^3.0.0",
+        "ava": "^0.25.0",
+        "supertest": "^4.0.0"
+      }
+}
