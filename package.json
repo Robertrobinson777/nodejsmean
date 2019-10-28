@@ -33,6 +33,6 @@
         "supertest": "^4.0.0"
       },
       "scripts": {
-        "start": "main.js"
+        "start": "node main.js"
     }
 }
